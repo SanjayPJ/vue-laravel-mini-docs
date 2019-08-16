@@ -1,5 +1,9 @@
 ## Vue Router
 
+```
+npm install vue-router
+```
+
 Inside `welcome.blade.php`
 
 ```
